@@ -1,5 +1,5 @@
-# Todo-App
-# demo => [[https://todo-app-23qc.onrender.com](https://todo-app-83dz.onrender.com/)]
-# Quick Note: Tasks are draggable!
+## A Simple Todo-App
 
-![Vite + React + TS](https://github.com/Liam-Piro/Todo-App/assets/109366637/88a382f6-0226-42df-b746-5c888b88f673)
+### Live demo:
+
+[![todo-app](https://github.com/MohamedAbirou/Todo-App/assets/109366637/a374310a-1ed4-49c7-bd3d-e01ade727319)](https://todo-app-83dz.onrender.com/)
